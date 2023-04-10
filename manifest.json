@@ -1,0 +1,13 @@
+{
+  "name": "Supprimer les téléchargements terminés",
+  "description": "Supprime automatiquement les téléchargements terminés dans Brave",
+  "version": "1.0",
+  "manifest_version": 2,
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [
+    "downloads",
+    "downloads.shelf"
+  ]
+}
