@@ -2,12 +2,6 @@
 
 Une extension pour Brave Browser qui supprime automatiquement les éléments téléchargés qui ont fini de se télécharger dans le gestionnaire de téléchargement Brave.
 
-Fonctionnalités :
-
-* Supprime automatiquement les éléments téléchargés qui ont fini de se télécharger.
-* Option pour activer/désactiver la suppression automatique.
-* Option pour spécifier les types de fichiers à ne pas supprimer automatiquement.
-
 Instructions d'utilisation :
 
 * Téléchargez l'extension au format ZIP.
