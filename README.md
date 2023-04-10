@@ -10,11 +10,11 @@ Fonctionnalités :
 
 Instructions d'utilisation :
 
-1: Téléchargez l'extension au format ZIP.
-2: Extrayez le contenu du fichier ZIP dans un dossier.
-3: Ouvrez Brave Browser et allez à l'URL "brave://extensions".
-4: Activez le mode développeur en cliquant sur le bouton "Mode développeur" en haut à droite de la page.
-5: Cliquez sur le bouton "Charger l'extension non empaquetée" et sélectionnez le dossier dans lequel vous avez extrait les fichiers de l'extension.
+* Téléchargez l'extension au format ZIP.
+* Extrayez le contenu du fichier ZIP dans un dossier.
+* Ouvrez Brave Browser et allez à l'URL "brave://extensions".
+* Activez le mode développeur en cliquant sur le bouton "Mode développeur" en haut à droite de la page.
+* Cliquez sur le bouton "Charger l'extension non empaquetée" et sélectionnez le dossier dans lequel vous avez extrait les fichiers de l'extension.
 
 L'extension devrait maintenant apparaître dans la liste des extensions installées.
 Cliquez sur le bouton "Options" à côté de l'extension pour accéder aux options de l'extension.
